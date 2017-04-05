@@ -27,27 +27,75 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
-<v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
+<v t="leo.20170322230631.1" a="E"><vh>slides div</vh>
+<v t="leo.20170322230631.2"><vh>封面投影片</vh>
+<v t="leo.20170322230631.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
-<v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170322230631.4"><vh>20170222Week1</vh>
+<v t="leo.20170322230631.5" a="E"><vh>周次</vh>
+<v t="leo.20170322230631.6"><vh>Week</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20170322230631.7" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170322230631.8"><vh>上課內容1</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170322230631.9"><vh>20170301Week2</vh>
+<v t="leo.20170322230631.10"><vh>周次</vh>
+<v t="leo.20170322230631.11"><vh>Week</vh></v>
+</v>
+<v t="leo.20170322230631.12"><vh>課堂報告1</vh>
+<v t="leo.20170322230631.13"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170322230631.14"><vh>20170308Week3</vh>
+<v t="leo.20170322230631.15" a="E"><vh>周次</vh>
+<v t="leo.20170322230631.16"><vh>Week</vh></v>
+</v>
+<v t="leo.20170322230631.17" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170322230631.18"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170322230631.19"><vh>20170315Week4</vh>
+<v t="leo.20170322230631.20" a="E"><vh>周次</vh>
+<v t="leo.20170322230631.21"><vh>Week</vh></v>
+</v>
+<v t="leo.20170322230631.22" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170322230631.23"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170322230631.24"><vh>20170322Week5</vh>
+<v t="leo.20170322230631.25" a="E"><vh>周次</vh>
+<v t="leo.20170322230631.26"><vh>Week</vh></v>
+</v>
+<v t="leo.20170322230631.27" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170322230631.28"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170329113630.1"><vh>20170329Week6</vh>
+<v t="leo.20170329113630.2" a="E"><vh>周次</vh>
+<v t="leo.20170329113630.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170329113630.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170329113630.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170322230631.29"><vh>快捷鍵</vh>
+<v t="leo.20170322230631.30"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20170322230631.31"><vh>各式內容引用範例</vh>
+<v t="leo.20170322230631.32" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20170322230631.33"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20170322230631.34" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20170322230631.35"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20170322230631.36" a="E"><vh>導入影片</vh>
+<v t="leo.20170322230631.37"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -56,10 +104,10 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
-<v t="yen.20170209092319.1"><vh>@edit 20170301.md</vh></v>
-<v t="yen.20170217105706.1"><vh>@edit 20170308.md</vh></v>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
+<v t="leo.20170226215021.1"><vh>@edit 20170222.md</vh></v>
+<v t="leo.20170304120513.1"><vh>@edit 20170301.md</vh></v>
+<v t="leo.20170311113011.1"><vh>@edit 20170308.md</vh></v>
+<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -68,7 +116,7 @@
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 <v t="yen.20170120212350.1" a="E"><vh>programs</vh>
-<v t="yen.20170210153828.1" a="E"><vh>v-rep rempte api</vh>
+<v t="yen.20170210153828.1"><vh>v-rep rempte api</vh>
 <v t="yen.20170210202015.1"><vh>Python remote API</vh></v>
 <v t="yen.20170210170248.1"><vh>line tracer</vh></v>
 <v t="yen.20170210222733.1"><vh>line tracer2</vh></v>
@@ -85,8 +133,878 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
+<v t="leo.20170405084617.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170405084617.2"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20170405084617.3"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20170405084617.4"><vh>new:封面投影片內容</vh></v>
+</v>
+<v t="leo.20170405084617.5"><vh>Recovered node "20170222Week1" from @clean index.html</vh>
+<v t="leo.20170405084617.6"><vh>old:20170222Week1</vh></v>
+<v t="leo.20170405084617.7"><vh>new:20170222Week1</vh></v>
+</v>
+<v t="leo.20170405084617.8"><vh>Recovered node "周次" from @clean index.html</vh>
+<v t="leo.20170405084617.9"><vh>old:周次</vh></v>
+<v t="leo.20170405084617.10"><vh>new:周次</vh></v>
+</v>
+<v t="leo.20170405084617.11"><vh>Recovered node "Week" from @clean index.html</vh>
+<v t="leo.20170405084617.12"><vh>old:Week</vh></v>
+<v t="leo.20170405084617.13"><vh>new:Week</vh></v>
+</v>
+<v t="leo.20170405084617.14"><vh>Recovered node "課堂報告1" from @clean index.html</vh>
+<v t="leo.20170405084617.15"><vh>old:課堂報告1</vh></v>
+<v t="leo.20170405084617.16"><vh>new:課堂報告1</vh></v>
+</v>
+<v t="leo.20170405084617.17"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170405084617.18"><vh>old:上課內容1</vh></v>
+<v t="leo.20170405084617.19"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170405084617.20"><vh>Recovered node "20170301Week2" from @clean index.html</vh>
+<v t="leo.20170405084617.21"><vh>old:20170301Week2</vh></v>
+<v t="leo.20170405084617.22"><vh>new:20170301Week2</vh></v>
+</v>
+<v t="leo.20170405084617.23"><vh>Recovered node "周次" from @clean index.html</vh>
+<v t="leo.20170405084617.24"><vh>old:周次</vh></v>
+<v t="leo.20170405084617.25"><vh>new:周次</vh></v>
+</v>
+<v t="leo.20170405084617.26"><vh>Recovered node "Week" from @clean index.html</vh>
+<v t="leo.20170405084617.27"><vh>old:Week</vh></v>
+<v t="leo.20170405084617.28"><vh>new:Week</vh></v>
+</v>
+<v t="leo.20170405084617.29"><vh>Recovered node "課堂報告1" from @clean index.html</vh>
+<v t="leo.20170405084617.30"><vh>old:課堂報告1</vh></v>
+<v t="leo.20170405084617.31"><vh>new:課堂報告1</vh></v>
+</v>
+<v t="leo.20170405084617.32"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170405084617.33"><vh>old:上課內容1</vh></v>
+<v t="leo.20170405084617.34"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170405084617.35"><vh>Recovered node "20170308Week3" from @clean index.html</vh>
+<v t="leo.20170405084617.36"><vh>old:20170308Week3</vh></v>
+<v t="leo.20170405084617.37"><vh>new:20170308Week3</vh></v>
+</v>
+<v t="leo.20170405084617.38"><vh>Recovered node "周次" from @clean index.html</vh>
+<v t="leo.20170405084617.39"><vh>old:周次</vh></v>
+<v t="leo.20170405084617.40"><vh>new:周次</vh></v>
+</v>
+<v t="leo.20170405084617.41"><vh>Recovered node "Week" from @clean index.html</vh>
+<v t="leo.20170405084617.42"><vh>old:Week</vh></v>
+<v t="leo.20170405084617.43"><vh>new:Week</vh></v>
+</v>
+<v t="leo.20170405084617.44"><vh>Recovered node "課堂報告1" from @clean index.html</vh>
+<v t="leo.20170405084617.45"><vh>old:課堂報告1</vh></v>
+<v t="leo.20170405084617.46"><vh>new:課堂報告1</vh></v>
+</v>
+<v t="leo.20170405084617.47"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170405084617.48"><vh>old:上課內容1</vh></v>
+<v t="leo.20170405084617.49"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170405084617.50"><vh>Recovered node "20170315Week4" from @clean index.html</vh>
+<v t="leo.20170405084617.51"><vh>old:20170315Week4</vh></v>
+<v t="leo.20170405084617.52"><vh>new:20170315Week4</vh></v>
+</v>
+<v t="leo.20170405084617.53"><vh>Recovered node "周次" from @clean index.html</vh>
+<v t="leo.20170405084617.54"><vh>old:周次</vh></v>
+<v t="leo.20170405084617.55"><vh>new:周次</vh></v>
+</v>
+<v t="leo.20170405084617.56"><vh>Recovered node "Week" from @clean index.html</vh>
+<v t="leo.20170405084617.57"><vh>old:Week</vh></v>
+<v t="leo.20170405084617.58"><vh>new:Week</vh></v>
+</v>
+<v t="leo.20170405084617.59"><vh>Recovered node "課堂報告1" from @clean index.html</vh>
+<v t="leo.20170405084617.60"><vh>old:課堂報告1</vh></v>
+<v t="leo.20170405084617.61"><vh>new:課堂報告1</vh></v>
+</v>
+<v t="leo.20170405084617.62"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170405084617.63"><vh>old:上課內容1</vh></v>
+<v t="leo.20170405084617.64"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170405084617.65"><vh>Recovered node "20170322Week5" from @clean index.html</vh>
+<v t="leo.20170405084617.66"><vh>old:20170322Week5</vh></v>
+<v t="leo.20170405084617.67"><vh>new:20170322Week5</vh></v>
+</v>
+<v t="leo.20170405084617.68"><vh>Recovered node "周次" from @clean index.html</vh>
+<v t="leo.20170405084617.69"><vh>old:周次</vh></v>
+<v t="leo.20170405084617.70"><vh>new:周次</vh></v>
+</v>
+<v t="leo.20170405084617.71"><vh>Recovered node "Week" from @clean index.html</vh>
+<v t="leo.20170405084617.72"><vh>old:Week</vh></v>
+<v t="leo.20170405084617.73"><vh>new:Week</vh></v>
+</v>
+<v t="leo.20170405084617.74"><vh>Recovered node "課堂報告1" from @clean index.html</vh>
+<v t="leo.20170405084617.75"><vh>old:課堂報告1</vh></v>
+<v t="leo.20170405084617.76"><vh>new:課堂報告1</vh></v>
+</v>
+<v t="leo.20170405084617.77"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170405084617.78"><vh>old:上課內容1</vh></v>
+<v t="leo.20170405084617.79"><vh>new:上課內容1</vh></v>
+</v>
+<v t="leo.20170405084617.80"><vh>Recovered node "20170329Week6" from @clean index.html</vh>
+<v t="leo.20170405084617.81"><vh>old:20170329Week6</vh></v>
+<v t="leo.20170405084617.82"><vh>new:20170329Week6</vh></v>
+</v>
+<v t="leo.20170405084617.83"><vh>Recovered node "周次" from @clean index.html</vh>
+<v t="leo.20170405084617.84"><vh>old:周次</vh></v>
+<v t="leo.20170405084617.85"><vh>new:周次</vh></v>
+</v>
+<v t="leo.20170405084617.86"><vh>Recovered node "Week" from @clean index.html</vh>
+<v t="leo.20170405084617.87"><vh>old:Week</vh></v>
+<v t="leo.20170405084617.88"><vh>new:Week</vh></v>
+</v>
+<v t="leo.20170405084617.89"><vh>Recovered node "課堂報告1" from @clean index.html</vh>
+<v t="leo.20170405084617.90"><vh>old:課堂報告1</vh></v>
+<v t="leo.20170405084617.91"><vh>new:課堂報告1</vh></v>
+</v>
+<v t="leo.20170405084617.92"><vh>Recovered node "上課內容1" from @clean index.html</vh>
+<v t="leo.20170405084617.93"><vh>old:上課內容1</vh></v>
+<v t="leo.20170405084617.94"><vh>new:上課內容1</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170322230631.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="leo.20170322230631.10">@others
+</t>
+<t tx="leo.20170322230631.11"></t>
+<t tx="leo.20170322230631.12">@others
+</t>
+<t tx="leo.20170322230631.13"></t>
+<t tx="leo.20170322230631.14">@others
+</t>
+<t tx="leo.20170322230631.15">@others
+</t>
+<t tx="leo.20170322230631.16"></t>
+<t tx="leo.20170322230631.17">@others
+</t>
+<t tx="leo.20170322230631.18"></t>
+<t tx="leo.20170322230631.19">@others
+</t>
+<t tx="leo.20170322230631.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170322230631.20">@others
+</t>
+<t tx="leo.20170322230631.21"></t>
+<t tx="leo.20170322230631.22">@others
+</t>
+<t tx="leo.20170322230631.23"></t>
+<t tx="leo.20170322230631.24">@others
+</t>
+<t tx="leo.20170322230631.25">@others
+</t>
+<t tx="leo.20170322230631.26"></t>
+<t tx="leo.20170322230631.27">@others
+</t>
+<t tx="leo.20170322230631.28"></t>
+<t tx="leo.20170322230631.29">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170322230631.3">## 2017Spring 協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[協同產品設計實習課程網誌](blog/index.html)
+
+
+</t>
+<t tx="leo.20170322230631.30"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20170322230631.31">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170322230631.32">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322230631.33"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+</t>
+<t tx="leo.20170322230631.34">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170322230631.35">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20170322230631.36">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170322230631.37">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170322230631.4">@others
+</t>
+<t tx="leo.20170322230631.5">@others
+</t>
+<t tx="leo.20170322230631.6"></t>
+<t tx="leo.20170322230631.7">@others
+</t>
+<t tx="leo.20170322230631.8"></t>
+<t tx="leo.20170322230631.9">@others
+</t>
+<t tx="leo.20170329113630.1">@others
+</t>
+<t tx="leo.20170329113630.2">@others
+</t>
+<t tx="leo.20170329113630.3"></t>
+<t tx="leo.20170329113630.4">@others
+</t>
+<t tx="leo.20170329113630.5"></t>
+<t tx="leo.20170405084617.1"></t>
+<t tx="leo.20170405084617.10">@others
+</t>
+<t tx="leo.20170405084617.11">(uncached) leo.20170322230631.6
+Diff...
++ # Week 1
+</t>
+<t tx="leo.20170405084617.12"># Week 1
+</t>
+<t tx="leo.20170405084617.13"></t>
+<t tx="leo.20170405084617.14">(uncached) leo.20170322230631.7
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.15">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.16">@others
+</t>
+<t tx="leo.20170405084617.17">(uncached) leo.20170322230631.8
+Diff...
++ &lt;p align="left"&gt;
++ 1. 用 SciTE 將 Y:\stunnel\config 下的 stunnel.conf 開啟&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 2. 在 cmd 輸入 ipconfig /all 查詢電腦 IP&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 3. 並將 stunnel.conf 的 https 的 IP 改為電腦的 IP&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 4. 若有使用 proxy 要指定電腦的 IP 不要經過 proxy&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 5. 可從 Google Chrome 設定 (proxy 設定&gt;LAN設定&gt;進階)&lt;/p&gt;</t>
+<t tx="leo.20170405084617.18">&lt;p align="left"&gt;
+1. 用 SciTE 將 Y:\stunnel\config 下的 stunnel.conf 開啟&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 在 cmd 輸入 ipconfig /all 查詢電腦 IP&lt;/p&gt;
+
+&lt;p align="left"&gt;
+3. 並將 stunnel.conf 的 https 的 IP 改為電腦的 IP&lt;/p&gt;
+
+&lt;p align="left"&gt;
+4. 若有使用 proxy 要指定電腦的 IP 不要經過 proxy&lt;/p&gt;
+
+&lt;p align="left"&gt;
+5. 可從 Google Chrome 設定 (proxy 設定&gt;LAN設定&gt;進階)&lt;/p&gt;</t>
+<t tx="leo.20170405084617.19"></t>
+<t tx="leo.20170405084617.2">(uncached) leo.20170322230631.3
+Diff...
+  ## 2017Spring 協同產品設計實習
+  
+  ### 虎科大機械設計工程系
+  
+  &lt;small&gt;
+- Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
++ Created by [40423226](https://40423226.github.io/2017springcd_hw/blog/)
+  &lt;/small&gt;
+  
+  [協同產品設計實習課程網誌](blog/index.html)
+  
+  
+</t>
+<t tx="leo.20170405084617.20">(uncached) leo.20170322230631.9
+Diff...
++ &lt;section&gt;
+  @others
++ &lt;/section&gt;</t>
+<t tx="leo.20170405084617.21">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405084617.22">@others
+</t>
+<t tx="leo.20170405084617.23">(uncached) leo.20170322230631.10
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.24">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.25">@others
+</t>
+<t tx="leo.20170405084617.26">(uncached) leo.20170322230631.11
+Diff...
++ # Week 2
+</t>
+<t tx="leo.20170405084617.27"># Week 2
+</t>
+<t tx="leo.20170405084617.28"></t>
+<t tx="leo.20170405084617.29">(uncached) leo.20170322230631.12
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.3">## 2017Spring 協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40423226](https://40423226.github.io/2017springcd_hw/blog/)
+&lt;/small&gt;
+
+[協同產品設計實習課程網誌](blog/index.html)
+
+
+</t>
+<t tx="leo.20170405084617.30">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.31">@others
+</t>
+<t tx="leo.20170405084617.32">(uncached) leo.20170322230631.13
+Diff...
++ &lt;p align="left"&gt;
++ 1. https://ethercalc.org/4lirnzbeh0fl 寫各組座位表&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 2. 說明分組座位程式碼&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 3. 完成 SolveSpace 四連桿機構&lt;/p&gt;
++ 
++ &lt;iframe src="https://player.vimeo.com/video/207891469" width="640" height="332" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
++ 
++ 
+</t>
+<t tx="leo.20170405084617.33">&lt;p align="left"&gt;
+1. https://ethercalc.org/4lirnzbeh0fl 寫各組座位表&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 說明分組座位程式碼&lt;/p&gt;
+
+&lt;p align="left"&gt;
+3. 完成 SolveSpace 四連桿機構&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/207891469" width="640" height="332" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170405084617.34"></t>
+<t tx="leo.20170405084617.35">(uncached) leo.20170322230631.14
+Diff...
++ &lt;section&gt;
+  @others
++ &lt;/section&gt;</t>
+<t tx="leo.20170405084617.36">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405084617.37">@others
+</t>
+<t tx="leo.20170405084617.38">(uncached) leo.20170322230631.15
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.39">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.4">## 2017Spring 協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[協同產品設計實習課程網誌](blog/index.html)
+
+
+</t>
+<t tx="leo.20170405084617.40">@others
+</t>
+<t tx="leo.20170405084617.41">(uncached) leo.20170322230631.16
+Diff...
++ # Week 3
+</t>
+<t tx="leo.20170405084617.42"># Week 3
+</t>
+<t tx="leo.20170405084617.43"></t>
+<t tx="leo.20170405084617.44">(uncached) leo.20170322230631.17
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.45">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.46">@others
+</t>
+<t tx="leo.20170405084617.47">(uncached) leo.20170322230631.18
+Diff...
++ &lt;p align="left"&gt;
++ 1. 完成看影片打出英文稿&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 2. 練習在近端建立 fossil&lt;/p&gt;</t>
+<t tx="leo.20170405084617.48">&lt;p align="left"&gt;
+1. 完成看影片打出英文稿&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 練習在近端建立 fossil&lt;/p&gt;</t>
+<t tx="leo.20170405084617.49"></t>
+<t tx="leo.20170405084617.5">(uncached) leo.20170322230631.4
+Diff...
++ &lt;section&gt;
+  @others
++ &lt;/section&gt;</t>
+<t tx="leo.20170405084617.50">(uncached) leo.20170322230631.19
+Diff...
++ &lt;section&gt;
+  @others
++ &lt;/section&gt;</t>
+<t tx="leo.20170405084617.51">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405084617.52">@others
+</t>
+<t tx="leo.20170405084617.53">(uncached) leo.20170322230631.20
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.54">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.55">@others
+</t>
+<t tx="leo.20170405084617.56">(uncached) leo.20170322230631.21
+Diff...
++ # Week 4
+</t>
+<t tx="leo.20170405084617.57"># Week 4
+</t>
+<t tx="leo.20170405084617.58"></t>
+<t tx="leo.20170405084617.59">(uncached) leo.20170322230631.22
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.6">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405084617.60">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.61">@others
+</t>
+<t tx="leo.20170405084617.62">(uncached) leo.20170322230631.23
+Diff...
++ &lt;p align="left"&gt;
++ 1. 建立協同主機 2017springcd_bg1 : &lt;a href="https://mde2a2.kmol.info/cdbg1"&gt;https://mde2a2.kmol.info/cdbg1&lt;/a&gt; &lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 2. 繪製單桿機構&lt;/p&gt;
++ 
++ &lt;iframe src="data/onebar/onebar.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170405084617.63">&lt;p align="left"&gt;
+1. 建立協同主機 2017springcd_bg1 : &lt;a href="https://mde2a2.kmol.info/cdbg1"&gt;https://mde2a2.kmol.info/cdbg1&lt;/a&gt; &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 繪製單桿機構&lt;/p&gt;
+
+&lt;iframe src="data/onebar/onebar.html" width="800" height="480"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170405084617.64"></t>
+<t tx="leo.20170405084617.65">(uncached) leo.20170322230631.24
+Diff...
++ &lt;section&gt;
+  @others
++ &lt;/section&gt;</t>
+<t tx="leo.20170405084617.66">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405084617.67">@others
+</t>
+<t tx="leo.20170405084617.68">(uncached) leo.20170322230631.25
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.69">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.7">@others
+</t>
+<t tx="leo.20170405084617.70">@others
+</t>
+<t tx="leo.20170405084617.71">(uncached) leo.20170322230631.26
+Diff...
++ # Week 5
+</t>
+<t tx="leo.20170405084617.72"># Week 5
+</t>
+<t tx="leo.20170405084617.73"></t>
+<t tx="leo.20170405084617.74">(uncached) leo.20170322230631.27
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.75">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.76">@others
+</t>
+<t tx="leo.20170405084617.77">(uncached) leo.20170322230631.28
+Diff...
++ &lt;p align="left"&gt;
++ 1. Fossil SCM 與 Stunnel 啟動整合&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 2. SolveSpace 匯出 onebar 並在 V-rep 加入馬達&lt;/p&gt;</t>
+<t tx="leo.20170405084617.78">&lt;p align="left"&gt;
+1. Fossil SCM 與 Stunnel 啟動整合&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. SolveSpace 匯出 onebar 並在 V-rep 加入馬達&lt;/p&gt;</t>
+<t tx="leo.20170405084617.79"></t>
+<t tx="leo.20170405084617.8">(uncached) leo.20170322230631.5
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.80">(uncached) leo.20170329113630.1
+Diff...
++ &lt;section&gt;
+  @others
++ &lt;/section&gt;</t>
+<t tx="leo.20170405084617.81">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170405084617.82">@others
+</t>
+<t tx="leo.20170405084617.83">(uncached) leo.20170329113630.2
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.84">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.85">@others
+</t>
+<t tx="leo.20170405084617.86">(uncached) leo.20170329113630.3
+Diff...
++ # Week 6
+</t>
+<t tx="leo.20170405084617.87"># Week 6
+</t>
+<t tx="leo.20170405084617.88"></t>
+<t tx="leo.20170405084617.89">(uncached) leo.20170329113630.4
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170405084617.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.90">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170405084617.91">@others
+</t>
+<t tx="leo.20170405084617.92">(uncached) leo.20170329113630.5
+Diff...
++ &lt;p align="left"&gt;
++ 1. 在 Onshape 及 SolveSpace 繪製出 Onebar 及 Fourbar&lt;/p&gt;
++ 
++ &lt;p align="left"&gt;
++ 2. 將 Fourbar 匯入 V-rep 加入馬達&lt;/p&gt;
++ 
++ &lt;iframe src="https://player.vimeo.com/video/210018813" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170405084617.93">&lt;p align="left"&gt;
+1. 在 Onshape 及 SolveSpace 繪製出 Onebar 及 Fourbar&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 將 Fourbar 匯入 V-rep 加入馬達&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/210018813" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170405084617.94"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -240,91 +1158,6 @@ make.start()</t>
 @others
 
 </t>
-<t tx="yen.20170120110024.10"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
@@ -396,42 +1229,6 @@ make.start()
 @others
 &lt;/div&gt;
 
-</t>
-<t tx="yen.20170120110024.6">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="yen.20170120110024.7">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
-&lt;/small&gt;
-
-[協同產品設計實習課程網誌](blog/index.html)
-
-
-</t>
-<t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="yen.20170120212350.1"></t>
 <t tx="yen.20170120212354.1">@language python
