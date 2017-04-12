@@ -139,7 +139,7 @@ print("學生總數:", n)
 #print(os.environ)
 &lt;/pre&gt;
 
-&lt;h3&gt;Fourbar&lt;/h3&gt;
+&lt;h3&gt;四連桿&lt;/h3&gt;
 
 &lt;p&gt;利用 Solvespace 畫出四連桿機構雛形, 觀察此四連桿機構的運作模式&lt;/p&gt;
 
@@ -149,7 +149,7 @@ print("學生總數:", n)
 
 &lt;h3&gt;心得&lt;/h3&gt;
 
-&lt;p&gt;雖然程式能做的人也可以做, 但人會出錯, 簡單卻繁瑣的工作就交給程式, 困難的再讓人來做就行了&lt;/p&gt;</summary><category term="SolveSpace"></category></entry><entry><title>Week 1- stunnel.conf 的 IP 設定</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;h3&gt; 更改stunnel.conf 的 IP 設定&lt;/h3&gt;
+&lt;p&gt;這機構因為是最基本的四連桿所組成﹐所以還算是簡單&lt;/p&gt;</summary><category term="SolveSpace"></category></entry><entry><title>Week 1- stunnel.conf 的 IP 設定</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;h3&gt; 更改stunnel.conf 的 IP 設定&lt;/h3&gt;
 
 &lt;h4&gt;打上ipconfig /all指令﹐找到此台電腦的IP位置﹐開啟launchLeo.py﹐更改成此台電腦的IP即完成&lt;/h4&gt;
 &lt;iframe src="https://player.vimeo.com/video/212845472" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
