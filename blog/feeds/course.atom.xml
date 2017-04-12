@@ -92,7 +92,7 @@ Exit
 
 &lt;p&gt;外加正三角形: 
 &lt;button onClick="lity('./../data/fourbar/solvespace_fourbar_triangle.png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 尺寸圖&lt;/button&gt; 
-&lt;button onClick="lity('./../data/fourbar/EXCEL_fourbar_triangle.png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 路徑圖&lt;/button&gt;&lt;/p&gt;</summary><category term="HyperWorks"></category><category term="SolveSpace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>20170301 Week 2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-03-01:./Week 2.html</id><summary type="html">&lt;h3&gt;分組座位原始碼&lt;/h3&gt;
+&lt;button onClick="lity('./../data/fourbar/EXCEL_fourbar_triangle.png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 路徑圖&lt;/button&gt;&lt;/p&gt;</summary><category term="HyperWorks"></category><category term="SolveSpace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>Week 2- Solvespace 畫出四連桿機</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-03-01:./Week 2.html</id><summary type="html">&lt;h3&gt;分組座位原始碼&lt;/h3&gt;
 
 &lt;pre class="brush: python"&gt;
 #import os
@@ -141,17 +141,17 @@ print("學生總數:", n)
 
 &lt;h3&gt;Fourbar&lt;/h3&gt;
 
-&lt;p&gt;利用 Solvespace 畫出簡單的四連桿機構, 觀察該機構的運動方式, 也可以匯出到 V-rep 進行動態模擬&lt;/p&gt;
+&lt;p&gt;利用 Solvespace 畫出四連桿機構雛形, 觀察此四連桿機構的運作模式&lt;/p&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/206177676" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/208428631" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/206177676"&gt;Fourbar&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423226"&gt;NFU-MDE-104B-40423226&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208428631"&gt;2017-03-15_11-31-51&lt;/a&gt; from &lt;a href="https://vimeo.com/user47858237"&gt;李奇軒&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;心得&lt;/h3&gt;
 
 &lt;p&gt;雖然程式能做的人也可以做, 但人會出錯, 簡單卻繁瑣的工作就交給程式, 困難的再讓人來做就行了&lt;/p&gt;</summary><category term="SolveSpace"></category></entry><entry><title>Week 1- stunnel.conf 的 IP 設定</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;h3&gt; 更改stunnel.conf 的 IP 設定&lt;/h3&gt;
 
-&lt;h2&gt;打上ipconfig /all指令﹐找到此台電腦的IP位置﹐開啟launchLeo.py﹐更改成此台電腦的IP即完成&lt;/h2&gt;
+&lt;h4&gt;打上ipconfig /all指令﹐找到此台電腦的IP位置﹐開啟launchLeo.py﹐更改成此台電腦的IP即完成&lt;/h4&gt;
 &lt;iframe src="https://player.vimeo.com/video/212845472" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212845472"&gt;2017-04-12_08-48-14&lt;/a&gt; from &lt;a href="https://vimeo.com/user47858237"&gt;李奇軒&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
