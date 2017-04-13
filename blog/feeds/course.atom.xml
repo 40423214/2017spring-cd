@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-08T11:00:00+08:00</updated><entry><title>201703018 Week 3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-03-08:./Week 3.html</id><summary type="html">&lt;h3&gt;Fourbar&lt;/h3&gt;
 
 &lt;p&gt;零件繪製&lt;p&gt;
-&lt;p&gt;Link_30: &lt;button onClick="lity(https://vimeo.com/212915792 )"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
+&lt;p&gt;Link_30: &lt;button onClick="lity('https://vimeo.com/212915792' )"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
 &lt;button onClick="lity('https://vimeo.com/207891474')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt; 
 &lt;button onClick="lity('./../data/fourbar/Link_30 (SolveSpace).png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 尺寸圖&lt;/button&gt;&lt;/p&gt;
 
