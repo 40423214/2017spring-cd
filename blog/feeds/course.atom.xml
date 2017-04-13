@@ -3,23 +3,19 @@
 
 &lt;p&gt;零件繪製&lt;p&gt;
 &lt;p&gt;Link_30: &lt;button onClick="lity('https://vimeo.com/212915792' )"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
-&lt;button onClick="lity('https://vimeo.com/207891474')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/213093858')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt; 
 &lt;button onClick="lity('./../data/fourbar/Link_30 (SolveSpace).png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 尺寸圖&lt;/button&gt;&lt;/p&gt;
 
-&lt;p&gt;Link_50: &lt;button onClick="lity('https://vimeo.com/207891460')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
-&lt;button onClick="lity('https://vimeo.com/207891480')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt; 
+&lt;p&gt;Link_50: &lt;button onClick="lity('https://vimeo.com/212917028')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/213094288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt; 
 &lt;button onClick="lity('./../data/fourbar/Link_50 (SolveSpace).png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 尺寸圖&lt;/button&gt;&lt;/p&gt;
 
-&lt;p&gt;Link_60: &lt;button onClick="lity('https://vimeo.com/207891463')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
-&lt;button onClick="lity('https://vimeo.com/207891487')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt; 
+&lt;p&gt;Link_60: &lt;button onClick="lity('https://vimeo.com/212917698')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/213094520')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt; 
 &lt;button onClick="lity('./../data/fourbar/Link_60 (SolveSpace).png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 尺寸圖&lt;/button&gt;&lt;/p&gt;
 
 &lt;p&gt;Fourbar組裝: &lt;button onClick="lity('https://vimeo.com/207891469')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
-&lt;button onClick="lity('https://vimeo.com/207891489')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt;&lt;/p&gt;
-
-&lt;p&gt;外加正三角形: 
-&lt;button onClick="lity('./../data/fourbar/solvespace_fourbar_triangle.png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 尺寸圖&lt;/button&gt; 
-&lt;button onClick="lity('./../data/fourbar/EXCEL_fourbar_triangle.png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 路徑圖&lt;/button&gt;&lt;/p&gt;</summary><category term="HyperWorks"></category><category term="SolveSpace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>Week 2- Solvespace 畫出四連桿機</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-03-01:./Week 2.html</id><summary type="html">&lt;h3&gt;分組座位原始碼&lt;/h3&gt;
+&lt;button onClick="lity('https://vimeo.com/208423361')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape&lt;/button&gt;&lt;/p&gt;</summary><category term="HyperWorks"></category><category term="SolveSpace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>Week 2- Solvespace 畫出四連桿機</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-03-01:./Week 2.html</id><summary type="html">&lt;h3&gt;分組座位原始碼&lt;/h3&gt;
 
 &lt;pre class="brush: python"&gt;
 #import os
