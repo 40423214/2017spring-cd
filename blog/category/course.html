@@ -123,6 +123,111 @@
         <div class="col-sm-9">
 
             <article>
+                <h2><a href="../Week 8.html">期中自評成績 ( 20170412 Week 8 )</a></h2>
+                <div class="summary"><p>小組互評: <a href="https://pygroup-ag100.rhcloud.com">https://pygroup-ag100.rhcloud.com</a></p>
+
+<p>個人自評: <a href="http://mde1a2.kmol.info:8000/k96tgzh1ofbl">http://mde1a2.kmol.info:8000/k96tgzh1ofbl</a></p>
+                    <a class="btn btn-default btn-xs" href="../Week 8.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../Week 7.html">Fossil 推送檔案 / V-rep 模擬八連桿機構 ( 20170405 Week 7 )</a></h2>
+                <div class="summary"><h3>Fossil 推送檔案</h3>
+
+<p>1. 在 fossil_repo 的目錄 clone 區網的 fossil 檔</p>
+
+<p><img src="../data/fossil clone.png" width="800" />
+
+<p>2. 會發現多一個 bg1.fossil 的檔案</p>
+
+<p>3. 新建一個 wd 的目錄, 並且進去 wd 目錄</p>
+
+<pre>
+mkdir wd
+cd wd</pre>
+
+<p>4. 再新建一個 w7 的目錄, 並且進去 w7 目錄</p>
+
+<pre>
+mkdir w7
+cd w7</pre>
+
+<p><img src="../data/cd w7.png" width="800" />
+
+<p>5. 用相對位置打開 bg1.fossil </p>
+<pre>fossil open ./../../bg1.fossil</pre>
+
+<p>6. 有出現 _FOSSIL_ 檔, 代表有成功開啟 ...</p></p></p>
+                    <a class="btn btn-default btn-xs" href="../Week 7.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../Week 6.html">V-rep 模擬四連桿機構 ( 20170329 Week 6 )</a></h2>
+                <div class="summary"><h3>Fourbar 安裝 base</h3>
+
+<iframe src="https://player.vimeo.com/video/210037555" width="640" height="332" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/210037555">Fourbar (base) (SolveSpace)</a> from <a href="https://vimeo.com/mde40423226">NFU-MDE-104B-40423226</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<h3>Fourbar 運動模擬</h3>
+
+<p>在 V-rep 模擬 Fourbar</p>
+
+<iframe src="https://player.vimeo.com/video/210018813" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/210018813">Fourbar (V-rep)</a> from <a href="https://vimeo.com/mde40423226">NFU-MDE-104B-40423226</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<h3>解決倉儲推送出現問題</h3>
+
+<p>雖然我們網頁的設置沒有進行更改, 但 GitHub 仍不斷地更新, 換句話說短短時間我們又退步</p>
+
+<p><img src="../data/liquid_tags1.png" width="800" />
+
+<p>GitHub 這次也很貼心地又寄信給我</p>
+<p><img src="../data/liquid_tags2.png" width="800" />
+
+<p>解決的辦法, 一樣刪除 plugin 下的 liquid_tags 目錄</p>
+<p><a href="https://github.com/40423226/2017springcd_hw/commit/26e92c47839f7c720d855bfdaa5fff279ca533e1">查看刪除的內容</a></p>
+                    <a class="btn btn-default btn-xs" href="../Week 6.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../Week 5.html">更新 start.bat 啟動內容 ( 20170322 Week 5 )</a></h2>
+                <div class="summary"><h3>Fossil SCM 與 Stunnel 啟動整合</h3>
+
+<p>1. 更改 Start.bat 設定</p>
+
+<pre class="brush: python">
+REM tiny2017 主要針對初學 Python3 與 C 學員所建立
+REM 近端使用 fossil 管理資料版本, 並且定時轉為 git 格式後上傳到 github
+@echo off
+REM 設定 y 硬碟代號與 data 目錄對應
+set Disk=y
+subst %Disk%: "data"
+REM 設定 leo 相關對應 Home 位置
+set HomePath=%Disk%:\home
+set ...</pre>
+                    <a class="btn btn-default btn-xs" href="../Week 5.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../Week 4.html">各組協同主機 / 單連桿機構 ( 20170315 Week 4 )</a></h2>
+                <div class="summary"><h3>建立各組協同主機</h3>
+
+<p>2017springcd_bg1: <a href="https://mde2a2.kmol.info/cdbg1">https://mde2a2.kmol.info/cdbg1</a></p>
+
+<h3>單桿機構</h3>
+
+<iframe src="../data/onebar/onebar.html" width="800" height="480"></iframe>
+                    <a class="btn btn-default btn-xs" href="../Week 4.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="../Week 3.html">Week 3-四連桿零件與組裝</a></h2>
                 <div class="summary"><h3>四連桿</h3>
 
@@ -332,23 +437,28 @@ alist = adata.splitlines()
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
-                        <a href="../Week 3.html">
-                            Week 3-四連桿零件與組裝
+                        <a href="../Week 8.html">
+                            期中自評成績 ( 20170412 Week 8 )
                         </a>
                     </li>
                     <li class="list-group-item">
-                        <a href="../Week 2.html">
-                            Week 2- Solvespace 畫出四連桿機構
+                        <a href="../Week 7.html">
+                            Fossil 推送檔案 / V-rep 模擬八連桿機構 ( 20170405 Week 7 )
                         </a>
                     </li>
                     <li class="list-group-item">
-                        <a href="../Week 1.html">
-                            Week 1- stunnel.conf 的 IP 設定
+                        <a href="../Week 6.html">
+                            V-rep 模擬四連桿機構 ( 20170329 Week 6 )
                         </a>
                     </li>
                     <li class="list-group-item">
-                        <a href="../glyphicons.html">
-                            Glyphicons
+                        <a href="../Week 5.html">
+                            更新 start.bat 啟動內容 ( 20170322 Week 5 )
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="../Week 4.html">
+                            各組協同主機 / 單連桿機構 ( 20170315 Week 4 )
                         </a>
                     </li>
                 </ul>
