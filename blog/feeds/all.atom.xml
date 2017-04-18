@@ -50,7 +50,7 @@ fossil update&lt;/pre&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/210892971" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/210892971"&gt;jasen_8link (V-rep)&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423226"&gt;NFU-MDE-104B-40423226&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>V-rep 模擬四連桿機構 ( 20170329 Week 6 )</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h3&gt;onebar在onshape運作&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210892971"&gt;jasen_8link (V-rep)&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423226"&gt;NFU-MDE-104B-40423226&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>Week 6-單連桿onshape繪製</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h3&gt;onebar在onshape運作&lt;/h3&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/213670226" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -58,7 +58,7 @@ fossil update&lt;/pre&gt;
 
 &lt;h3&gt;解決倉儲推送出現問題&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src="../picture/mis.png" width="800" /&gt;
+&lt;p&gt;&lt;img src="./../picture/mis.png" width="800" /&gt;
 
 &lt;p&gt;解決的辦法, 一樣刪除 plugin 下的 liquid_tags 目錄就行了&lt;/p&gt;</summary><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>Week 5-solvespace 轉V-rep</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;h3&gt;Fossil SCM 與 Stunnel 啟動整合&lt;/h3&gt;
 
