@@ -50,31 +50,17 @@ fossil update&lt;/pre&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/210892971" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/210892971"&gt;jasen_8link (V-rep)&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423226"&gt;NFU-MDE-104B-40423226&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>V-rep 模擬四連桿機構 ( 20170329 Week 6 )</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h3&gt;Fourbar 安裝 base&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210892971"&gt;jasen_8link (V-rep)&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423226"&gt;NFU-MDE-104B-40423226&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>V-rep 模擬四連桿機構 ( 20170329 Week 6 )</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h3&gt;onebar在onshape運作&lt;/h3&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/210037555" width="640" height="332" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/213670226" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/210037555"&gt;Fourbar (base) (SolveSpace)&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423226"&gt;NFU-MDE-104B-40423226&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Fourbar 運動模擬&lt;/h3&gt;
-
-&lt;p&gt;在 V-rep 模擬 Fourbar&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/210018813" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/210018813"&gt;Fourbar (V-rep)&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423226"&gt;NFU-MDE-104B-40423226&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213670226"&gt;onshape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47858237"&gt;李奇軒&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;解決倉儲推送出現問題&lt;/h3&gt;
 
-&lt;p&gt;雖然我們網頁的設置沒有進行更改, 但 GitHub 仍不斷地更新, 換句話說短短時間我們又退步&lt;/p&gt;
+&lt;p&gt;&lt;img src="../picture/mis.png" width="800" /&gt;
 
-&lt;p&gt;&lt;img src="../data/liquid_tags1.png" width="800" /&gt;
-
-&lt;p&gt;GitHub 這次也很貼心地又寄信給我&lt;/p&gt;
-&lt;p&gt;&lt;img src="../data/liquid_tags2.png" width="800" /&gt;
-
-&lt;p&gt;解決的辦法, 一樣刪除 plugin 下的 liquid_tags 目錄&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/40423226/2017springcd_hw/commit/26e92c47839f7c720d855bfdaa5fff279ca533e1"&gt;查看刪除的內容&lt;/a&gt;&lt;/p&gt;</summary><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>更新 start.bat 啟動內容 ( 20170322 Week 5 )</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;h3&gt;Fossil SCM 與 Stunnel 啟動整合&lt;/h3&gt;
+&lt;p&gt;解決的辦法, 一樣刪除 plugin 下的 liquid_tags 目錄就行了&lt;/p&gt;</summary><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>Week 5-solvespace 轉V-rep</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>40423226</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;h3&gt;Fossil SCM 與 Stunnel 啟動整合&lt;/h3&gt;
 
 &lt;p&gt;1. 更改 Start.bat 設定&lt;/p&gt;
 
@@ -143,7 +129,7 @@ Exit
 &lt;h3&gt;從 SolveSpace 匯出 onebar 並在 V-rep 加入馬達&lt;/h3&gt;
 
 &lt;p&gt;SolveSpacec 匯出: &lt;button onClick="lity('https://vimeo.com/209501913')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 影片&lt;/button&gt;&lt;p&gt;
-&lt;p&gt;V-rep 加入馬達: &lt;button onClick="lity('https://vimeo.com/209502238')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 影片&lt;/button&gt;&lt;p&gt;</summary><category term="Fossil"></category><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>Week4-單連桿繪製</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;h2&gt;單連桿之零件及組合&lt;h2&gt;
+&lt;p&gt;V-rep 加入馬達: &lt;button onClick="lity('https://vimeo.com/209502238')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 影片&lt;/button&gt;&lt;p&gt;</summary><category term="Fossil"></category><category term="SolveSpace"></category><category term="V-rep"></category></entry><entry><title>Week 4-單連桿繪製</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;h2&gt;單連桿之零件及組合&lt;h2&gt;
 
 &lt;h3&gt;底座&lt;h3&gt;
 &lt;iframe src="https://player.vimeo.com/video/213205775" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
