@@ -34,7 +34,7 @@ class Spur(object):
     def __init__(self, ctx):
         self.ctx = ctx
 
-    def create_line(self, x1, y1, x2, y2, width=3, fill="yellow"):
+    def create_line(self, x1, y1, x2, y2, width=3, fill="blue"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
@@ -154,7 +154,7 @@ r = 250
 n = 36
 # 壓力角
 pa = 20
-Spur(ctx).Gear(x, y, r, n, pa, "oringe")
+Spur(ctx).Gear(x, y, r, n, pa, "red")
 &lt;/script&gt;</summary><category term="123"></category></entry><entry><title>Week 13-齒輪轉動模擬</title><link href="./Week%2013.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-05-17:./Week 13.html</id><summary type="html">&lt;p&gt;用程式隨機抽查同學網誌&lt;/p&gt;</summary><category term="123"></category></entry><entry><title>Week 12-繪製正齒輪</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;p&gt;正齒輪傳動繪圖 &lt;/p&gt;
 
 
