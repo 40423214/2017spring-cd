@@ -190,7 +190,7 @@ class Spur(object):
     def __init__(self, ctx):
         self.ctx = ctx
 
-    def create_line(self, x1, y1, x2, y2, width=3, fill="blue"):
+    def create_line(self, x1, y1, x2, y2, width=3, fill="black"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
@@ -307,7 +307,7 @@ x = (canvas.width)/2
 y = (canvas.height)/2
 r = 250
 # 齒數
-n = 36
+n = 24
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "red")
