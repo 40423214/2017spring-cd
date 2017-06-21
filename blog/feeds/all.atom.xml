@@ -165,7 +165,8 @@ ctx.fillStyle = "   #ffdb72"
 ctx.font = "50px ScriptS"
 ctx.fillText("40423214 ",300,300)
 ctx.stroke()
-&lt;/script&gt;</summary><category term="123"></category></entry><entry><title>Week 13-齒輪轉動模擬</title><link href="./Week%2013.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-05-17:./Week 13.html</id><summary type="html">&lt;h1&gt;用程式隨機抽查同學網誌&lt;/h1&gt;</summary><category term="123"></category></entry><entry><title>Week 12-繪製正齒輪</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;p&gt;正齒輪傳動繪圖 &lt;/p&gt;
+&lt;/script&gt;</summary><category term="123"></category></entry><entry><title>Week 13-齒輪轉動模擬</title><link href="./Week%2013.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-05-17:./Week 13.html</id><summary type="html">&lt;h1&gt;用程式隨機抽查同學網誌&lt;/h1&gt;
+&lt;p&gt;&lt;img src="./../data/345.PNG" width="480" /&gt;&lt;/p&gt;</summary><category term="123"></category></entry><entry><title>Week 12-繪製正齒輪</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423214</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;p&gt;正齒輪傳動繪圖 &lt;/p&gt;
 
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
